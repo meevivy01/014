@@ -95,8 +95,8 @@ if os.path.exists(CLIENTS_PATH):
 
 # --- TARGET CONFIG ---
 TARGET_UNIVERSITIES = ["ราชภัฏอุบลราชธานี" , "Ubon Ratchathani Rajabhat University"]  
-TARGET_FACULTIES = ["เครื่องสำอาง","Cosmetic Science"] 
-TARGET_MAJORS = ["เครื่องสำอาง", "วิทยาศาสตร์เครื่องสำอาง","Cosmetic Science", "Cosmetics", "Cosmetic"]
+TARGET_FACULTIES = ["เครื่องสำอาง","Cosmetic"] 
+TARGET_MAJORS = ["เครื่องสำอาง", "Cosmetics", "Cosmetic"]
 SEARCH_KEYWORDS = ["ราชภัฏอุบลราชธานี เครื่องสำอาง", "Cosmetic Ubon Ratchathani Rajabhat"]
 
 # --- 🟢 เพิ่มชุดนี้ไว้ใต้ SEARCH_KEYWORDS ---
